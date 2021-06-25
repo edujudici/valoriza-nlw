@@ -1,2 +1,2 @@
-# API para publicar elogios aos colegas
-API em nodejs desenvolvido durante a semana NLW-06
+# API publicação de elogios
+API em nodejs + typescript desenvolvido durante a semana NLW-06
